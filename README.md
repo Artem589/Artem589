@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Artem!I am a web developer
-- 👀 I am interested in learning web development and collaboration
-- 🌱 I’m currently learning Html,Css,JS and Vue
-- 📫 How to reach me. metaznak@gmail.com
-
+👋 Hi, I'm Artem — Frontend Engineer. 
+💻 I build web applications with Vue.js, JavaScript and TypeScript.
+🚀 Currently exploring AI, backend development and developer tools.
+🌱 Interested in system design, automation and creating useful products.
+📫 Reach me at: metaznak@gmail.com
 
 
 
